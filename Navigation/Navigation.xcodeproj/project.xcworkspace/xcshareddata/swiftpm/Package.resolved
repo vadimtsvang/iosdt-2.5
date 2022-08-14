@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "iosintpackage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/TrueMax/iOSIntPackage.git",
+      "state" : {
+        "revision" : "e1cc0e1b76d7cb8f770d903d85ae9ed91ae026bd",
+        "version" : "3.2.3"
+      }
+    },
+    {
+      "identity" : "youtubeplayer-in-wkwebview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/hmhv/YoutubePlayer-in-WKWebView.git",
+      "state" : {
+        "revision" : "970bf5f089171c78622633e9112e9d8730ace758",
+        "version" : "0.3.8"
+      }
+    }
+  ],
+  "version" : 2
+}
